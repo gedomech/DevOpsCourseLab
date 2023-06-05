@@ -1,3 +1,3 @@
-# Repository for the DevOps Application Course
+# Repository for the DevOps Tools and Applications Course
 
 This is my first file. 
